@@ -1,0 +1,12 @@
+{
+	"config": {
+		"name": "fse",
+		"version": "1.0",
+		"max_responses": 5
+	},
+	"files": [
+		"data/basic_set/files/file1.txt",
+		"data/basic_set/files/file2.txt",
+		"data/basic_set/files/file3.txt"
+	]
+}

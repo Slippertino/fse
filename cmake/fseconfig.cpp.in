@@ -1,0 +1,8 @@
+#include "filesearchengine.h"
+
+namespace fse {
+
+const std::string FileSearchEngine::name_	 = "@PROJECT_NAME@";
+const std::string FileSearchEngine::version_ = "${fse_VERSION}";
+
+} // namespace fse
