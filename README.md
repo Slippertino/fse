@@ -1,5 +1,4 @@
 # File Search Engine
-=====================
 
 ## Description
 -------------
